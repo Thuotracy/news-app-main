@@ -1,4 +1,4 @@
-# News app
+<!-- # News app
 
 ### By Tracy Wangari
 
@@ -42,4 +42,4 @@ tracyjacobs775@gmail.com
 
 ### License
 
-MIT©
+MIT© -->
