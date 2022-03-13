@@ -1,5 +1,5 @@
-import unittest
-from app.models import Headlines
+# import unittest
+# from app.models import Headlines
 
 class HeadlinesTest(unittest.TestCase):
     '''
